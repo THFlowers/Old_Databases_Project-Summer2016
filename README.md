@@ -6,7 +6,7 @@ Placeholder images are modified assets from Cosmic Cat Comics (http://www.mailme
 
 This project was a locally hosted (rough) immitation of an online pull-list maintainance system reffered to as "CosmonautKittens".  It was implemented in Racket, but mostly follows Scheme idioms while using some of Racket's more convenient libraries.  These libraries include it's quoted mysql queries, xml/html creation via sexp, clean custom formlet and built in web-server libraries.  Since this project is un-idiomatic, quick-and-dirty, and mixes html, Racket, MySQL, and some javascript, it can become difficult to read and have excessive levels of nesting.
 
-I am particularily proud of the rather simple function generic-report-table, without it the program would be thousands of lines longer, and the contents of each cell can be easily customized as necessary (as demonstrated in most admin pages).
+I am particularily proud of the rather simple function "generic-report-table", without it the program would be thousands of lines longer, and the contents of each cell can be easily customized as necessary (as demonstrated in most admin pages).
 
 I regret not learning how to use Racket macros and modules during this project as this could have been seperated into many easy to read files, and much redundant boilerplate (and near boilerplate) could have been replaced with generating macros.
 
