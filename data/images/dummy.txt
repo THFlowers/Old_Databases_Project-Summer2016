@@ -1,3 +1,0 @@
-Dummy placeholder to make github allow me to create the proper directory.
-Why can't I upload files to a directory directly?
-This is stupid.
